@@ -13,3 +13,6 @@ Linear regression can be further divided into two types of the algorithm:
 If a single independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Simple Linear Regression.
 * Multiple Linear regression:
 If more than one independent variable is used to predict the value of a numerical dependent variable, then such a Linear Regression algorithm is called Multiple Linear Regression.
+
+### Linear Regression Line
+A linear line showing the relationship between the dependent and independent variables is called a regression line. When working with linear regression, our main goal is to find the best fit line that means the error between predicted values and actual values should be minimized. The best fit line will have the least error.
